@@ -5,6 +5,7 @@
 </head>
 <body>
     <h2>Welcome to Campus Management System</h2>
+    <h2>New added feature</h2>
     <p>Please login to continue.</p>
     <a href="login.jsp">Login</a>
 </body>
