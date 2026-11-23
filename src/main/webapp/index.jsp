@@ -6,6 +6,7 @@
 <body>
     <h2>Welcome to Campus Management System</h2>
 <h2>hello</h2>
+<h1>heyy<h2>
 
     <h2>Feature from conflict branch</h2>
     <p>Please login to continue.</p>
